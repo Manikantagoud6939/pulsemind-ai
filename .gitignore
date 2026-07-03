@@ -1,0 +1,29 @@
+# Python virtual environments & dependencies
+.venv/
+venv/
+ENV/
+env/
+requirements.txt.log
+
+# Node dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Databases & local configs
+*.db
+*.sqlite
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
